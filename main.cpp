@@ -5,7 +5,9 @@ void foo() {
     cout << "It's foo!!" << endl;
 }
 
-void bar() {}
+void bar() {
+    cout << "It'sbar!!" << endl;
+}
 
 int main() {
     cout << "Hello, Git" << endl;
