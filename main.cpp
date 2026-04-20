@@ -1,7 +1,9 @@
 #include <iostream>
 using namespace std;
 
-void foo() {}
+void foo() {
+    cout << "It's foo!!" << endl;
+}
 
 void bar() {}
 
